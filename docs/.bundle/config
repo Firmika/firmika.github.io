@@ -1,0 +1,4 @@
+---
+BUNDLE_MIRROR__HTTPS://RUBYGEMS__ORG/: "https://gems.ruby-china.com"
+BUNDLE_MIRROR__HTTPS://GEMS__RUBY___CHINA__COM/: "https://mirrors.aliyun.com/rubygems/"
+BUNDLE_MIRROR__HTTPS://MIRRORS__ALIYUN__COM/RUBYGEMS/: "https://gems.ruby-china.com"
