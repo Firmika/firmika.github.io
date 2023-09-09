@@ -32,7 +32,7 @@ github_username:  Firmika
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 # remote_theme: Simpleyyt/jekyll-theme-next
 plugins:
   - jekyll-feed
